@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello World👋, I'm Suryatop Sasmal</h1>
-<h3 align="center">A android developer from India</h3>
+<h3 align="center">A software developer from India</h3>
 <img align="right" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryatop&label=Profile%20views&color=0e75b6&style=flat" alt="suryatop" /> </p>
